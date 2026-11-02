@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.43.0](https://github.com/openai/openai-python/compare/v3.42.1...v3.43.0) (2026-11-02)
+
+
+### Features
+
+* **api:** expand Live Responses delegation tools ([#4233](https://github.com/openai/openai-python/issues/4233)) ([f6e8480](https://github.com/openai/openai-python/commit/f6e8480f9a5b2a4d02b17a1da54a1e57964bc312))
+* **responses:** accumulate rich WebSocket progress ([#4224](https://github.com/openai/openai-python/issues/4224)) ([48cdad3](https://github.com/openai/openai-python/commit/48cdad3a61321cf9a27834b818c6d1fcfe651138))
+* **responses:** add WebSocket lane overflow isolation ([#4225](https://github.com/openai/openai-python/issues/4225)) ([16bdad1](https://github.com/openai/openai-python/commit/16bdad17364b62254e14f52f834d15cf1036a024))
+
 ## [3.42.1](https://github.com/openai/openai-python/compare/v3.42.0...v3.42.1) (2026-11-01)
 
 
